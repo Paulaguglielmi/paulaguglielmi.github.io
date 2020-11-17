@@ -1,0 +1,62 @@
+body{
+    background-color:rgb(244, 251, 255);
+}
+
+.imgRedonda { 
+    width:298px; 
+    height:298px; 
+    border-radius:149px;
+    border-style: double;
+    margin-block-end: 50px;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 30px;
+}
+
+.bienvenido {
+    background-color:royalblue;
+}
+    
+
+.letra{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    
+    
+}   
+
+.imgcuadrada{
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-block-start: 18px;
+    border-radius: 8px;
+}
+
+.texto{
+    text-align: center
+}
+
+.texto1{
+    font-size: 20px;
+    text-align: justify;
+    background-color: aliceblue; 
+}
+
+.color{
+    background-color: royalblue;
+}
+
+.texto2{
+    text-align: justify;
+}
+
+.texto3{
+    font-family: 'Franklin Gothic ';
+    font-size: 30px;
+    text-align: left;
+}
